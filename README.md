@@ -6,6 +6,7 @@
 * I want to be a Full-stack Web developer 
 * I wish to contribute more to the Open-Source community
 * Currently Pursuing BTech from IIT-H 
+* WEB Dev. using python Django And Flask
 
 ## Languages And Softwares Love to use :
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -36,6 +37,8 @@
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/)
 
 <br />
+
+Please contribute to my projects , Thank YOU.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=autosaver)](https://github.com/anuraghazra/github-readme-stats)
 
