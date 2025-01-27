@@ -46,9 +46,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thecodealchemy&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thecodealchemy&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecodealchemy&theme=radical" alt="GitHub Streak"/>
 </p>
-
 ---
 
 ### 🤝 Connect with Me
